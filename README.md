@@ -2,7 +2,9 @@
 
 <div align="center">
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Frostyume&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=tokyonight" />
-<h1><img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Frostyume&hide_title=true&hide_border=true&layout=compact&theme=tokyonight" /><h1>
+<!--
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Frostyume&hide_title=true&hide_border=true&layout=compact&theme=tokyonight" />
+-->
 </div>/
 
 <table align="center">
