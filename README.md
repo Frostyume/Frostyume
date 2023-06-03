@@ -7,10 +7,10 @@
 </div>
 -->
 
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Frostyume&theme=xcode" alt="Activity"/></td>
   </tr>
-</table>
+</table> -->
 
 
