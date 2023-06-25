@@ -6,11 +6,11 @@
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Frostyume&hide_title=true&hide_border=true&layout=compact&theme=tokyonight" />
 </div>
 
-
+<!--
 <table align="center">
   <tr>
     <td><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Frostyume&theme=xcode" alt="Activity"/></td>
   </tr>
-</table> 
+</table> -->
 
 
